@@ -1,5 +1,4 @@
-# EMG-Gesture-Recognition-using-FFT-and-Deep-Learning
-Hand Gesture Recognition Using sEMG, Time-Frequency Analysis and Artificial Intelligence
+# Hand Gesture Recognition Using sEMG, Time-Frequency Analysis and Artificial Intelligence
 
 This project implements a machine learning and deep learning pipeline to classify hand gestures 
 using surface electromyography (sEMG) signals.
