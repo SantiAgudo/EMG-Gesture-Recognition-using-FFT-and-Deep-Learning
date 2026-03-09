@@ -1,5 +1,5 @@
 # EMG-Gesture-Recognition-using-FFT-and-Deep-Learning
-EMG-based hand gesture recognition system using FFT feature extraction and deep learning for prosthetic control.
+Hand Gesture Recognition Using sEMG, Time-Frequency Analysis and Artificial Intelligence
 
 This project implements a machine learning and deep learning pipeline to classify hand gestures 
 using surface electromyography (sEMG) signals.
