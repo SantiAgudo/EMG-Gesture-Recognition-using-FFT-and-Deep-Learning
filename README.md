@@ -16,14 +16,5 @@ Applications:
 - Biomedical signal analysis
 
 
-EMG Signal
-   ↓
-Sliding Window Segmentation
-   ↓
-FFT Feature Extraction
-   ↓
-Spectrogram Image Generation
-   ↓
-CNN Classification
-   ↓
-Hand Gesture Prediction
+System Pipeline
+EMG Signal → Window Segmentation → FFT Feature Extraction → Spectrogram Image Generation → CNN Model → Hand Gesture Prediction
