@@ -14,3 +14,16 @@ Applications:
 - Prosthetic control
 - Human-machine interfaces
 - Biomedical signal analysis
+
+
+EMG Signal
+   ↓
+Sliding Window Segmentation
+   ↓
+FFT Feature Extraction
+   ↓
+Spectrogram Image Generation
+   ↓
+CNN Classification
+   ↓
+Hand Gesture Prediction
